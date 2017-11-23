@@ -1,7 +1,7 @@
 # Human Mobility Prediction #
 Welcome to my project on Human Mobility Prediction. For the introduction of my project and overview of what will be covered in this notebook and the subsequent others, please click [here](https://d-lim.github.io/indigo-jekyll-theme/). 
 
-Squence of notebooks:
+Sequence of notebooks:
 
 1. Capstone_Taxi_1-Cleaning
 	- Extract, transform & load (ETL) data onto a VM Instance on Google Cloud
