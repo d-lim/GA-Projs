@@ -1,5 +1,5 @@
 # Human Mobility Prediction #
-Welcome to my project on Human Mobility Prediction. For the introduction of my project and overview of what will be covered in this notebook and the subsequent others, please click [here](https://d-lim.github.io/indigo-jekyll-theme/). 
+Welcome to my project on Human Mobility Prediction. For the introduction of my project and overview of what will be covered the notebooks in this repo, please click [here](https://d-lim.github.io/indigo-jekyll-theme/). 
 
 Sequence of notebooks:
 
