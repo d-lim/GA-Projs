@@ -1,6 +1,8 @@
 # Human Mobility Prediction #
 Welcome to my project on Human Mobility Prediction. For the introduction of my project and overview of what will be covered the notebooks in this repo, please click [here](https://d-lim.github.io/indigo-jekyll-theme/). 
 
+Original dataset avaliable from [Kaggle](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data)
+
 Sequence of notebooks:
 
 1. Capstone_Taxi_1-Cleaning
